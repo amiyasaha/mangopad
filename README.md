@@ -4,10 +4,12 @@ mangopad is a 9-key macropad with a Rotary Encoder, an OLED screen, and RGB. It 
 
 # CAD
 The case was designed in Fusion 360 and has 3 compartments: the top case, the plate, and the bottom case.
+<img src="assets/mango_cad.png" alt="mango cad"/>
 
 # PCB
 The PCB was designed in KiCAD 
-
+<img src="assets/mango_schematic.png" alt="mango schematic"/>
+<img src="assets/mango_pcb.png" alt="mango pcb"/>
 
 
 # Firmware
