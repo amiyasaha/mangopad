@@ -1,8 +1,8 @@
 # mangopad
 
 mangopad is a 9-key macropad with a Rotary Encoder, and an OLED screen. It was made as part of Hack Club's Highway YSWS.
-<img src="assets/mangopad_front.jpg"/>
 <img src="assets/mangopad_back.jpg"/>
+<img src="assets/mangopad_front.jpg"/>
 
 
 # CAD
